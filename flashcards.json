@@ -1,0 +1,16 @@
+{
+"flashcards": [ 
+    {
+        "term":"Algorithm",
+        "summary":"A set of well-defined , step by step instructions to solve a particular problem or perform a computation."
+    },
+    {
+        "term":"Data type",
+        "summary":"The classification of different types of data"
+    },
+    {
+        "term":"Variable",
+        "summary":"a named storage location in a computers memory that holds a value"
+    }
+]
+}
