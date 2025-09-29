@@ -25,20 +25,20 @@
         "summary":"Code that performs a different action depending on weather a programmer-specified boolean condition is true or false."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Loop",
+        "summary":"A control structure that repeatedly executes a block of code until a certain condition is met."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Function (method)",
+        "summary":"A block of code that performs a specific task and can be called by name."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Argument",
+        "summary":"The value or expression passed into a function when it is called."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Syntax",
+        "summary":"the set of rules that defines the structure of a programming language, similar to grammar in human language."
     },    
     {
         "term":"",
