@@ -41,396 +41,53 @@
         "summary":"the set of rules that defines the structure of a programming language, similar to grammar in human language."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Keyword (reserved word)",
+        "summary":"A word reserved by a programming language that has a special meaning and cannot be used as a variable name."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Program",
+        "summary":"A collection of source code files that can be executed by a computer to perform a specific task."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Source Code",
+        "summary":"Human-readable code written by a programmer."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Compiler",
+        "summary":"A program that translates source code written in a high-level language into machine code that a computer can execute."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Interpreter",
+        "summary":"A program thar executes source code line by line without first compiling it into machine code."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Debugging",
+        "summary":"The process of identifying , analyzing and fixing bugs or errors in a computer program."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"API ( Application Programming Interface",
+        "summary":"A set of rules and protocols that allows different software applications to communicate with each other."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Library",
+        "summary":"A collection of pre-written functions, classes , or modules that developers can use to perform common tasks."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Framework",
+        "summary":"A pre-built structure of code that provides a foundation for building an application."
     },    
     {
-        "term":"",
-        "summary":""
+        "term":"Version Control" ,
+        "summary":"A system that records changes to a file or set of files overtime, making it easier to track and revert changes."
     },    
     {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
-    },    
-    {
-        "term":"",
-        "summary":""
+        "term":"IDE (Integrated Development Environment)",
+        "summary":"Software that provides comprehensive tools for software development, such as a code editor, compiler, debugger etc.."
     },    
     {
         "term":"",
         "summary":""
     }
-]
+ ]
 }
+    
